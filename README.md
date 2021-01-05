@@ -11,6 +11,7 @@ The '.' character indicates empty cells.
  
 
 EXAMPLE 1:
+
 ![alt-text](https://github.com/isha-np/Sudoku-Solver/blob/main/sudoku%20solver.JPG)
 
 INPUT: board = [
